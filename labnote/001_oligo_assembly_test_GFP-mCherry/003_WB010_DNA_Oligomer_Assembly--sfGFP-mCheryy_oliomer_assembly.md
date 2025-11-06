@@ -3,7 +3,7 @@ title: WB010 DNA Oligomer Assembly - sfGFP-mCheryy oliomer assembly
 experimenter: 윤예린
 created_date: '2025-10-29'
 end_date: '2025-10-31'
-last_updated_date: '2025-11-05'
+last_updated_date: '2025-11-06'
 ---
 
 ## [WB010 DNA Oligomer Assembly] sfGFP-mCheryy oliomer assembly
@@ -47,19 +47,19 @@ last_updated_date: '2025-11-05'
 - sfGFP-mCherry oligo pool (lyophilized form, IDT, Mfg ID: `746711415`)
 
 #### Reagent
-- TE buffer (10 mM Tris-HCl, 1 mM EDTA, pH 8.0, 상세 제품명 및 제조사 기재)
+- TE (pH 8.0) buffer (Bioneer, Lot #23050K)
 
 #### Consumables
 - Pipette tips
 
 #### Equipment
 - Pipette (p100)
-- Shaking Heat block
-- Vortex mixer
+- Vortex-Genie 2 mixer (Scientific Industries)
+- Thermomixer comfort (Eppendorf)
 
 #### Method
 1. Lyophilized oligo pool tube를 열고, TE buffer를 50 μL 첨가한다.
-2. Vortex로 충분히 섞은 뒤, 상온에서 Heat block 위에서 2시간 shaking하며 완전 용해시킨다.
+2. Vortex로 충분히 섞은 뒤, 상온에서 Thermomixer 에서 2시간 shaking하며 용해한다. (온도: 25 °C, 속도: 800 rpm)
 3. 용해 후 시료를 냉장(4 °C)에서 overnight 보관한다. 
    - Storage: 4 °C (short-term), –20 °C (long-term)
 
@@ -176,7 +176,7 @@ last_updated_date: '2025-11-05'
 #### Meta
 - Experimenter: 윤예린
 - Start_date: '2025-10-31'
-- End_date: ''
+- End_date: '2025-10-3'
 
 #### Input
 - Assembly PCR reaction mixtures (A1–A4, 96-well PCR plate × 2)
@@ -188,12 +188,12 @@ last_updated_date: '2025-11-05'
 - sealing film 
 
 #### Equipment
-- Heat sealer
-- Plate centrifuge
+- Automated Roll Heat Sealer (formerly a4S) (AZENTA)
+- Microplate Centrifuge (MP-2500) (MIIXLAB)
 
 #### Method
 1. Assembly PCR reaction mixtures가 들어있는 96-well PCR plate를 sealer 에 넣고, seal 버튼을 눌러 sealing 한다. 
-2. Sealing이 완료된 PCR plate를 Plate centrifuge에 넣고, 짧게 원심분리하여 시료를 바닥으로 모이게 한다.
+2. Sealing이 완료된 PCR plate를 Microplate Centrifuge에 넣고, 짧게 원심분리하여 시료를 바닥으로 모이게 한다.
 
 #### Output
 - Sealed Assembly PCR reaction plates (2 plates)
@@ -317,12 +317,12 @@ last_updated_date: '2025-11-05'
 - sealing film 
 
 #### Equipment
-- Heat sealer
-- Plate centrifuge
+- Automated Roll Heat Sealer (formerly a4S) (AZENTA)
+- Microplate Centrifuge (MP-2500) (MIIXLAB)
 
 #### Method
 1. Assembly PCR reaction mixtures가 들어있는 96-well PCR plate를 sealer 에 넣고, seal 버튼을 눌러 sealing 한다. 
-2. Sealing이 완료된 PCR plate를 Plate centrifuge에 넣고, 짧게 원심분리하여 시료를 바닥으로 모이게 한다.
+2. Sealing이 완료된 PCR plate를 Microplate Centrifuge에 넣고, 짧게 원심분리하여 시료를 바닥으로 모이게 한다.
 
 #### Output
 - Assembly PCR reaction plates (A1–A4, post-thermocycling, 1 plate)
@@ -393,7 +393,7 @@ last_updated_date: '2025-11-05'
 - Assembly PCR reaction plate (Hybridized / Non-hybridized)
 
 #### Reagent
-- T7 Endonuclease I (NEB, M0302S, 10 U/μL)  
+- T7 Endonuclease I (10 U/μL) (NEB, M0302S)
 - 10× NEBuffer 2 (NEB)
 - UltraPure™ DNase/RNase-Free Distilled Water (Invitrogen, Lot #2749760)
 
@@ -445,12 +445,12 @@ last_updated_date: '2025-11-05'
 - sealing film 
 
 #### Equipment
-- Heat sealer
-- Plate centrifuge
+- Automated Roll Heat Sealer (formerly a4S) (AZENTA)
+- Microplate Centrifuge (MP-2500, MIIXLAB)
 
 #### Method
 1. Error-Correction reaction mixture가 담긴 96 well PCR plate를 sealer 에 넣고, seal 버튼을 눌러 sealing 한다. 
-2. Sealing이 완료된 PCR plate를 Plate centrifuge에 넣고, 짧게 원심분리하여 시료를 바닥으로 모이게 한다.
+2. Sealing이 완료된 PCR plate를 Microplate Centrifuge에 넣고, 짧게 원심분리하여 시료를 바닥으로 모이게 한다.
 
 #### Output
 - Sealed Error-Correction reaction plates (Hybridized / Non-hybridized, E1, E2 조건)
@@ -483,7 +483,7 @@ last_updated_date: '2025-11-05'
 - (none)
 
 #### Equipment
-- Thermocycler T-Robot 2, 3 (Biometra T-Robot II)
+- T-Robot II (Biometra) - 2, 3번
 
 #### Method
 1. T-Robot 제어 소프트웨어를 실행하고, 2, 3번 장비에 각각 Oligomer Assembly 계정으로 로그인한다. 
@@ -633,12 +633,12 @@ last_updated_date: '2025-11-05'
 - sealing film 
 
 #### Equipment
-- Heat sealer
-- Plate centrifuge
+- Automated Roll Heat Sealer (formerly a4S) (AZENTA)
+- Microplate Centrifuge (MP-2500) (MIIXLAB)  
 
 #### Method
 1. Recovery PCR mixtures가 들어있는 96-well PCR plate를 sealer 에 넣고, seal 버튼을 눌러 sealing 한다. 
-2. Sealing이 완료된 PCR plate를 Plate centrifuge에 넣고, 짧게 원심분리하여 시료를 바닥으로 모이게 한다.
+2. Sealing이 완료된 PCR plate를 Microplate Centrifuge에 넣고, 짧게 원심분리하여 시료를 바닥으로 모이게 한다.
 
 #### Output
 - sealed Recovery PCR reaction mixtures (96-well PCR plate)
