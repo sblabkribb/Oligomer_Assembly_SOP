@@ -3,7 +3,7 @@ title: WB010 DNA Oligomer Assembly - sfGFP-mCheryy oliomer assembly
 experimenter: 윤예린
 created_date: '2025-10-29'
 end_date: '2025-10-31'
-last_updated_date: '2025-11-06'
+last_updated_date: '2025-11-11'
 ---
 
 ## [WB010 DNA Oligomer Assembly] sfGFP-mCheryy oliomer assembly
@@ -64,7 +64,7 @@ last_updated_date: '2025-11-06'
    - Storage: 4 °C (short-term), –20 °C (long-term)
 
 #### Output
-- Resuspended oligo pool (50 μL, 50 pmol/μL) 
+- Resuspended oligo pool (50 μL, 1 pmol/μL) 
 
 #### Results & Discussions
 - oligo pool resuspension 완료했으며, downstream oligomer assembly 실험에 희석하여 사용될 예정이다. 
@@ -176,7 +176,7 @@ last_updated_date: '2025-11-06'
 #### Meta
 - Experimenter: 윤예린
 - Start_date: '2025-10-31'
-- End_date: '2025-10-3'
+- End_date: '2025-10-31'
 
 #### Input
 - Assembly PCR reaction mixtures (A1–A4, 96-well PCR plate × 2)
