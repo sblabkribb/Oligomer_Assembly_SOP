@@ -18,6 +18,12 @@ last_updated_date: '2025-'
 
 ## 🗂️ Related Workflows
 
-[001 WD050 DNA Oligomer Pool Design — sfGFP-mCherry oligomer pool design](./001_WD050_DNA_Oligomer_Pool_Design--sfGFP-mCherry%20oligomer%20pool%20design.md)
-[002 WB150 PCR-based Target Amplification — Vector backbone Preparation](./002_WB150_PCR-based_Target_Amplification--Vector_backbone_Prepration.md)
-[003 WB010 DNA Oligomer Assembly — sfGFP-mCherry oliomer assembly](./003_WB010_DNA_Oligomer_Assembly--sfGFP-mCheryy_oliomer_assembly.md)
+- [001 WD050 DNA Oligomer Pool Design - sfGFP-mCherry oligomer pool design](./001_WD050_DNA_Oligomer_Pool_Design--sfGFP-mCherry%20oligomer%20pool%20design.md)
+  
+- [002 WB150 PCR-based Target Amplification - Vector backbone Preparation](./002_WB150_PCR-based_Target_Amplification--Vector_backbone_Prepration.md)
+  
+- [003 WB010 DNA Oligomer Assembly - sfGFP-mCherry oliomer assembly](./003_WB010_DNA_Oligomer_Assembly--sfGFP-mCheryy_oliomer_assembly.md)
+  
+- [004 WB040 DNA Purification - Oligomer Assembly DNA Purification](./004_WB040_DNA_Purification--Oligomer_Assembly_DNA_purification.md)
+
+
