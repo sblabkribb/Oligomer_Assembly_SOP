@@ -3,19 +3,17 @@ title: WB040 DNA Purification - Oligomer Assembly DNA Purification
 experimenter: 윤예린
 created_date: '2025-11-04'
 end_date: '2025-11-04'
-last_updated_date: '2025-11-11'
+last_updated_date: '2025-11-12'
 ---
 
 ## [WB040 DNA Purification] Oligomer Assembly DNA Purification
-> Briefly describe this workflow (the description below is a template, modify it to fit your purpose)
-> This workflow refines crude DNA extracts to achieve high purity suitable for downstream applications. It typically involves methods like column chromatography, magnetic beads, or precipitation to remove contaminants such as proteins, RNA, and salts.
+> 본 워크플로는 Oligomer Assembly 과정에서 생성된 DNA 산물을 정제하여, 후속 (Gibson assembly) 반응에 적합한 품질의 DNA를 확보하는 것을 목표로 한다.
+> 정제 방식은 매뉴얼 방식과 자동화 시스템(Zypher)을 이용한 두 가지 방법을 포함하며, 각 방법에서 얻어진 정제 DNA는 NanoDrop을 이용해 농도를 측정하고 비교하였다. 
 
 ## 🗂️ Related Unit Operations
-- [UHW250 Nucleic Acid Purification] Manual PCR product purification
-- [UHW250 Nucleic Acid Purification] Automated Magnetic Bead-based Purification (Zypher System)
-- [UHW400 Manual DNA Concentration Measurement using NanoDrop Spectrophotometer]
-
-
+- [UHW250 Nucleic Acid Purification - Manual PCR product purification](#uhw250-nucleic-acid-purification-manual-pcr-product-purification)
+- [UHW250 Nucleic Acid Purification - Automated Magnetic Bead-based Purification (Zypher System)](#uhw250-nucleic-acid-purification-automated-magnetic-bead-based-purification-zypher-system)
+- [UHW400 Manual - DNA Concentration Measurement using NanoDrop Spectrophotometer](#uhw400-manual-dna-concentration-measurement-using-nanodrop-spectrophotometer)
 
 
 ---
@@ -82,6 +80,7 @@ last_updated_date: '2025-11-11'
 - Experimenter: 윤예린
 - Start_date: '2025-11-04'
 - End_date: '2025-11-04'
+- duration: 1 hr
 
 #### Input
 - Recovery PCR product (96-well PCR plate, 36 samples)
@@ -140,7 +139,7 @@ last_updated_date: '2025-11-11'
 
 ---
 
-### [UHW400 Manual DNA Concentration Measurement using NanoDrop Spectrophotometer]
+### [UHW400 Manual] DNA Concentration Measurement using NanoDrop Spectrophotometer
 
 - **Description**:  본 단계에서는 정제된 Recovery PCR product의 DNA 농도(concentration)를 측정하기 위해 NanoDrop spectrophotometer를 사용하였다.
 
