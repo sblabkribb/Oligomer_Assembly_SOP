@@ -180,12 +180,12 @@ last_updated_date: '2025-11-12'
 - 정제된 Recovery PCR product의 DNA 농도를 측정하였다. 
 - 수동으로 정제한 DNA 샘플 12개와 Zypher 시스템으로 정제한 DNA 샘플 36개의 농도 데이터를 확보하였다.
 - 수동의 정제한 DNA 샘플의 평균 농도는 59.2 ng/μL였으며, Zypher 시스템으로 정제한 DNA 샘플의 평균 농도는 22.9 ng/μL로 나타났다. 
+- manual 
+<img src="./resources/images/purification_manual.png" width="200">   
+- Zypher system
+   ![purification_zepher_results](./resources/images/purification_zepher.png)
+
 - Zypher 시스템을 이용한 정제 샘플의 농도가 상대적으로 낮게 측정되어, 정제 이전 단계인 Recovery PCR 반응 cycle 수를 늘려보는 방안을 고려하고자 한다.
-
-
-
-
-
 
 
 
