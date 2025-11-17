@@ -34,8 +34,8 @@ last_updated_date: '2025-11-17'
 - DNA concentration data (from NanoDrop measurements)
     [251106_input.xlsx](./resources/gibson_assembly/251106_input.xlsx)
 - gibson_mix_calculation script 
-    [gibson_mix_calculation_v1.py](./resources/gibson_assembly/gibson_mix_calculation_v1.py)
-    [gibson_mix_calculation_v1.ipynb](./resources/gibson_assembly/gibson_mix_calculation_v1.ipynb)
+    [gibson_mix_calculator_v1.py](./resources/gibson_assembly/gibson_mix_calculator_v1.py)
+    [gibson_mix_calculator_v1.ipynb](./resources/gibson_assembly/gibson_mix_calculator_v1.ipynb)
 
 #### Reagent
 - (None)
