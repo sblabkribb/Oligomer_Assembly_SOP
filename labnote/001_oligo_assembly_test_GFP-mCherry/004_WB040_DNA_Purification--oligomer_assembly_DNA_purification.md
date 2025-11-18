@@ -3,7 +3,7 @@ title: WB040 DNA Purification - Oligomer Assembly DNA Purification
 experimenter: 윤예린
 created_date: '2025-11-04'
 end_date: '2025-11-04'
-last_updated_date: '2025-11-12'
+last_updated_date: '2025-11-18'
 ---
 
 ## [WB040 DNA Purification] Oligomer Assembly DNA Purification
@@ -72,9 +72,9 @@ last_updated_date: '2025-11-12'
 
 ---
 
-### [UHW250 Nucleic Acid Purification] Automated Magnetic Bead-based Purification (Zypher System)
+### [UHW250 Nucleic Acid Purification] Automated Magnetic Bead-based Purification (Zyphyr System)
 
-- **Description**: 본 단계에서는 **Zypher** 자동화 시스템을 이용하여 Recovery PCR product의 DNA 정제(purification)를 수행하였다.
+- **Description**: 본 단계에서는 **Zyphyr** 자동화 시스템을 이용하여 Recovery PCR product의 DNA 정제(purification)를 수행하였다.
 
 #### Meta
 - Experimenter: 윤예린
@@ -96,35 +96,34 @@ last_updated_date: '2025-11-12'
 - 96 deep well plate (PerkinElmer) * 1
 
 #### Equipment
-- Zypher  
+- Zyphyr Liquid Handler 
   
 
 #### Method
-1. Zypher 기기의 3가지 전원을 모두 켠 후, 컴퓨터 바탕화면의 Zypher 제어 소프트웨어(Maestro) 아이콘을 클릭하여 실행한다.
+1. Zyphyr 기기의 3가지 전원을 모두 켠 후, 컴퓨터 바탕화면의 Zyphyr 제어 소프트웨어(Maestro) 아이콘을 클릭하여 실행한다.
    - 기기와 소프트웨어 연결에는 다소 시간을 소요될 수 있다.
 2. 연결이 완료되는 동안, 아래 사진에 따라 필요한 plates 및 tips을 준비한다. purification에 필요한 plate layout은 아래와 같다. 이는 바탕화면에서도 확인할 수 있다. 
      <img src="./resources/images/PCRpurification.png" alt="PCR purification setup" >
 3. Maestro 소프트웨어에서 다음 경로로 프로토콜을 불러온다.
 `[Open Maestro Application] → [Purification] → Purification1_30-50ul`
    * 본 프로토콜은 30–50 μL PCR product 정제에 적합하다.
-4. 각 plate의 label 및 위치가 Zypher deck layout과 일치하도록 배치한다.
+1. 각 plate의 label 및 위치가 Zyphyr deck layout과 일치하도록 배치한다.
    - C3 위치: magnetic plate를 먼저 장착한 후, 그 위에 PB buffer plate를 올린다.
    - Waste plate: 세척 후 재사용 가능하므로, 깨끗이 세척·건조된 plate를 사용한다.
-5. 알맞게 장착되었는지 Deck 방향과 기기 정면 및 옆면에서 모두 확인한다.
-6. A3 위치의 Elution buffer plate는 `Lid`로 표시된 plate이며, 여기에 **Universal Lid**를 덮는다. 
-7. Maestro 소프트웨어에서 [Run] 버튼을 클릭하여 purification 프로세스를 시작한다. 
-8. 프로세스 중 `Lubrication step`(윤활 단계)이 자동으로 포함되어 있다.
+2. 알맞게 장착되었는지 Deck 방향과 기기 정면 및 옆면에서 모두 확인한다.
+3. A3 위치의 Elution buffer plate는 `Lid`로 표시된 plate이며, 여기에 **Universal Lid**를 덮는다. 
+4. Maestro 소프트웨어에서 [Run] 버튼을 클릭하여 purification 프로세스를 시작한다. 
+5. 프로세스 중 `Lubrication step`(윤활 단계)이 자동으로 포함되어 있다.
     - User Message에
-    > `Place Lubricator at C3!!` 라는 알림이 표시되면, Zypher 기기 C3 위치에 Lubricator 를 뚜껑을 열고 올려놓는다.
-
+    > `Place Lubricator at C3!!` 라는 알림이 표시되면, Zyphyr 기기 C3 위치에 Lubricator 를 뚜껑을 열고 올려놓는다.
      - 이때 원래 C3 위치에 있던 PB buffer plate와 magnetic plate는 일시적으로 제거하여 옆에 둔다.
      - Lubrication: 정전기, 마찰열, 마모를 방지하기 위해 윤활유를 도포하는 과정.
-9. Lubrication step이 완료되면 lubricator를 제거하고, 미리 꺼내둔 PB buffer plate와 magnetic plate를 다시 C3 위치에 장착한다.
+6. Lubrication step이 완료되면 lubricator를 제거하고, 미리 꺼내둔 PB buffer plate와 magnetic plate를 다시 C3 위치에 장착한다.
      - 이후 `OK` 버튼을 클릭하여 프로세스를 계속 진행한다.
-10. `Please enter the number of columns to process` 창이 뜨면, 정제할 sample 수에 맞게 column 수를 입력한다.
-11.  이후 tip을 가져가면서 프로세스가 프로토콜에 따라 purification이 진행된다.
-12.  프로그램이 완료되면 모든 plate를 꺼내고, 사용한 tip rack은 폐기, waste plate는 세척 후 보관한다.
-13. 정제된 DNA가 담긴 Elution plate는 바로 다음 단계에 사용하거나, sealing film으로 밀봉 후 보관한다.
+7.  `Please enter the number of columns to process` 창이 뜨면, 정제할 sample 수에 맞게 column 수를 입력한다.
+8.   이후 tip을 가져가면서 프로세스가 프로토콜에 따라 purification이 진행된다.
+9.   프로그램이 완료되면 모든 plate를 꺼내고, 사용한 tip rack은 폐기, waste plate는 세척 후 보관한다.
+10. 정제된 DNA가 담긴 Elution plate는 바로 다음 단계에 사용하거나, sealing film으로 밀봉 후 보관한다.
 
 
 #### Output
@@ -181,7 +180,9 @@ last_updated_date: '2025-11-12'
 - 수동으로 정제한 DNA 샘플 12개와 Zypher 시스템으로 정제한 DNA 샘플 36개의 농도 데이터를 확보하였다.
 - 수동의 정제한 DNA 샘플의 평균 농도는 59.2 ng/μL였으며, Zypher 시스템으로 정제한 DNA 샘플의 평균 농도는 22.9 ng/μL로 나타났다. 
 - manual 
+
    <img src="./resources/images/purification_manual.png" width="200">   
+
 - Zypher system
   
    ![purification_zepher_results](./resources/images/purification_zepher.png)
