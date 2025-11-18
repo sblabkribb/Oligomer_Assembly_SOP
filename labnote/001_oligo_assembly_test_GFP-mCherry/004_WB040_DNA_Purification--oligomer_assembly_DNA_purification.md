@@ -12,7 +12,7 @@ last_updated_date: '2025-11-18'
 
 ## 🗂️ Related Unit Operations
 - [UHW250 Nucleic Acid Purification - Manual PCR product purification](#uhw250-nucleic-acid-purification-manual-pcr-product-purification)
-- [UHW250 Nucleic Acid Purification - Automated Magnetic Bead-based Purification (Zypher System)](#uhw250-nucleic-acid-purification-automated-magnetic-bead-based-purification-zypher-system)
+- [UHW250 Nucleic Acid Purification - Automated Magnetic Bead-based Purification (Zyphyr System)](#uhw250-nucleic-acid-purification-automated-magnetic-bead-based-purification-zyphyr-system)
 - [UHW400 Manual - DNA Concentration Measurement using NanoDrop Spectrophotometer](#uhw400-manual-dna-concentration-measurement-using-nanodrop-spectrophotometer)
 
 
