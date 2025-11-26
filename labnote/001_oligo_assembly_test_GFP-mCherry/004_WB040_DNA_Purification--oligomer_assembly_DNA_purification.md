@@ -104,26 +104,27 @@ last_updated_date: '2025-11-18'
    - 기기와 소프트웨어 연결에는 다소 시간을 소요될 수 있다.
 2. 연결이 완료되는 동안, 아래 사진에 따라 필요한 plates 및 tips을 준비한다. purification에 필요한 plate layout은 아래와 같다. 이는 바탕화면에서도 확인할 수 있다. 
      <img src="./resources/images/PCRpurification.png" alt="PCR purification setup" >
+     
 3. Maestro 소프트웨어에서 다음 경로로 프로토콜을 불러온다.
 `[Open Maestro Application] → [Purification] → Purification1_30-50ul`
    * 본 프로토콜은 30–50 μL PCR product 정제에 적합하다.
-1. 각 plate의 label 및 위치가 Zyphyr deck layout과 일치하도록 배치한다.
+4. 각 plate의 label 및 위치가 Zyphyr deck layout과 일치하도록 배치한다.
    - C3 위치: magnetic plate를 먼저 장착한 후, 그 위에 PB buffer plate를 올린다.
    - Waste plate: 세척 후 재사용 가능하므로, 깨끗이 세척·건조된 plate를 사용한다.
-2. 알맞게 장착되었는지 Deck 방향과 기기 정면 및 옆면에서 모두 확인한다.
-3. A3 위치의 Elution buffer plate는 `Lid`로 표시된 plate이며, 여기에 **Universal Lid**를 덮는다. 
-4. Maestro 소프트웨어에서 [Run] 버튼을 클릭하여 purification 프로세스를 시작한다. 
-5. 프로세스 중 `Lubrication step`(윤활 단계)이 자동으로 포함되어 있다.
+5. 알맞게 장착되었는지 Deck 방향과 기기 정면 및 옆면에서 모두 확인한다.
+6. A3 위치의 Elution buffer plate는 `Lid`로 표시된 plate이며, 여기에 **Universal Lid**를 덮는다. 
+7. Maestro 소프트웨어에서 [Run] 버튼을 클릭하여 purification 프로세스를 시작한다. 
+8. 프로세스 중 `Lubrication step`(윤활 단계)이 자동으로 포함되어 있다.
     - User Message에
     > `Place Lubricator at C3!!` 라는 알림이 표시되면, Zyphyr 기기 C3 위치에 Lubricator 를 뚜껑을 열고 올려놓는다.
      - 이때 원래 C3 위치에 있던 PB buffer plate와 magnetic plate는 일시적으로 제거하여 옆에 둔다.
      - Lubrication: 정전기, 마찰열, 마모를 방지하기 위해 윤활유를 도포하는 과정.
-6. Lubrication step이 완료되면 lubricator를 제거하고, 미리 꺼내둔 PB buffer plate와 magnetic plate를 다시 C3 위치에 장착한다.
+10. Lubrication step이 완료되면 lubricator를 제거하고, 미리 꺼내둔 PB buffer plate와 magnetic plate를 다시 C3 위치에 장착한다.
      - 이후 `OK` 버튼을 클릭하여 프로세스를 계속 진행한다.
-7.  `Please enter the number of columns to process` 창이 뜨면, 정제할 sample 수에 맞게 column 수를 입력한다.
-8.   이후 tip을 가져가면서 프로세스가 프로토콜에 따라 purification이 진행된다.
-9.   프로그램이 완료되면 모든 plate를 꺼내고, 사용한 tip rack은 폐기, waste plate는 세척 후 보관한다.
-10. 정제된 DNA가 담긴 Elution plate는 바로 다음 단계에 사용하거나, sealing film으로 밀봉 후 보관한다.
+11.  `Please enter the number of columns to process` 창이 뜨면, 정제할 sample 수에 맞게 column 수를 입력한다.
+12.   이후 tip을 가져가면서 프로세스가 프로토콜에 따라 purification이 진행된다.
+13.   프로그램이 완료되면 모든 plate를 꺼내고, 사용한 tip rack은 폐기, waste plate는 세척 후 보관한다.
+14. 정제된 DNA가 담긴 Elution plate는 바로 다음 단계에 사용하거나, sealing film으로 밀봉 후 보관한다.
 
 
 #### Output
