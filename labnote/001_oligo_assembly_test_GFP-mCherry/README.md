@@ -3,9 +3,9 @@ title: oligomer assembly test_sfGFP-mCherry
 author: '윤예린'
 experiment_type: labnote
 created_date: '2025-10-13'
-last_updated_date: '2025-'
+last_updated_date: '2025-10-17'
 ---
-
+    
 ## 🎯 Experiment Objective
 
 -   **본 실험은 약 1.7 kb 크기의 sfGFP–mCherry DNA cassette를 oligomer pool assembly 방식으로 합성하여, oligo 기반 유전자 합성의 효율성과 정확성을 검증하고, 현재 프로토콜을 SOP 수준으로 재현·표준화할 수 있는 실험 절차를 확립하는 것을 목표로 한다.**
@@ -26,4 +26,6 @@ last_updated_date: '2025-'
   
 - [004 WB040 DNA Purification - Oligomer Assembly DNA Purification](./004_WB040_DNA_Purification--Oligomer_Assembly_DNA_purification.md)
 
+- [005 WB030 DNA Assembly - Gibson assembly](./005_WB030_DNA_Assembly--Gibson_assembly_.md)
 
+- [006 WB120 Biology-mediated DNA Transfers - Transformation](./006_WB120_Biology-mediated_DNA_Transfers--Transformation.md)
