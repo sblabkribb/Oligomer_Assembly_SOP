@@ -77,7 +77,7 @@ last_updated_date: '2025-11-24'
 14. `[File] → [Open Application] → [Transformation] → Transformation_yerin_2` 프로토콜을 새로 불러온다.
 15. 새로운 agar plate를 준비하여, universal lid를 덮고 A3 위치에 장착한다. 
 16. Comp. cell 위치는 마지막으로 마무리된 위치인 B3 에 그대로 위치 시킨다.
-17. 프로토콜을 열고 화면 오른쪽의 `Ingormation Window` 창에서 `Methods 탭`에서 `Spotting2` 단계를 더블 클릭한 후 해당 단계를 실행한다. 
+17. 프로토콜을 열고 화면 오른쪽의 `Information Window` 창에서 `Methods 탭`에서 `Spotting2` 단계를 더블 클릭한 후 해당 단계를 실행한다. 
 18. 프로토콜이 완료되면 모든 plates를 꺼내고, 사용한 tip rack 제거 후 폐기하고, tip box는 보관한다.  
 19. spotting 된 agar plate는 완전히 말린뒤, 37°C incubator에 넣어 overnight 배양한다.
 
