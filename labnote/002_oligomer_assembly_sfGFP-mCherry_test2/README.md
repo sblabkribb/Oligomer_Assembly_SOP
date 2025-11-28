@@ -3,7 +3,7 @@ title: oligomer assembly_sfGFP-mCherry_test2
 author: '윤예린'
 experiment_type: labnote
 created_date: '2025-11-25'
-last_updated_date: '2025-11-25'
+last_updated_date: '2025-11-28'
 ---
 
 ## 🎯 Experiment Objective
@@ -13,11 +13,13 @@ last_updated_date: '2025-11-25'
 
 #### 1. 배경 및 문제점
 
-이전 실험에서는 변수 조건이 많아 다음과 같은 문제가 발생하였다.
+이전 실험에서는 다음과 같은 문제가 발생했다. 
 
 - transformation 단계에서 단일 콜로니 확보가 어려움
 - colony 색 기반 phenotype 판별의 불확실성 증가
 - colony picking 기준이 불명확하여 시퀀싱 결과의 해석 신뢰도 저하
+
+그래서 이전 실험에서 테스트한 여러가지 변수들의 영향을 명확히 분리하여 평가하기 어려웠다. 따라서 이번 실험에서는 우선적으로 몇 가지 변수들만을 선택하고, 단일 콜로니를 확보 할 수 있도록 transformation 공정을 최적화 하여 각각의 영향력을 독립적으로 분석할 수 있도록 실험 설계를 개선하고자 한다.
 
 #### 2. 이번 실험에서의 개선 전략
 
