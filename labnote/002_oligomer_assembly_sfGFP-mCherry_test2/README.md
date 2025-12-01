@@ -3,7 +3,7 @@ title: oligomer assembly_sfGFP-mCherry_test2
 author: '윤예린'
 experiment_type: labnote
 created_date: '2025-11-25'
-last_updated_date: '2025-11-28'
+last_updated_date: '2025-12-01'
 ---
 
 ## 🎯 Experiment Objective
@@ -48,4 +48,5 @@ last_updated_date: '2025-11-28'
 ## 🗂️ Related Workflows
 
 [ ] [001 WB010 DNA Oligomer Assembly - sfGFP-mCherry oligomer assembly test2](./001_WB010_DNA_Oligomer_Assembly--sfGFP-mCherry_oligomer_assembly_test2.md)
+[ ] [002 WB040 DNA Purification - sfGFP-mCherry assembly product purification](./002_WB040_DNA_Purification--sfGFP-mCherry_assembly_product_purification.md)
 
