@@ -48,5 +48,8 @@ last_updated_date: '2025-12-01'
 ## 🗂️ Related Workflows
 
 [ ] [001 WB010 DNA Oligomer Assembly - sfGFP-mCherry oligomer assembly test2](./001_WB010_DNA_Oligomer_Assembly--sfGFP-mCherry_oligomer_assembly_test2.md)
+
 [ ] [002 WB040 DNA Purification - sfGFP-mCherry assembly product purification](./002_WB040_DNA_Purification--sfGFP-mCherry_assembly_product_purification.md)
+
+[ ] [003 WB030 DNA Assembly - Plasmid construction via Gibson assembly](./003_WB030_DNA_Assembly--Plasmid_construction_via_Gibson_assembly.md)
 
