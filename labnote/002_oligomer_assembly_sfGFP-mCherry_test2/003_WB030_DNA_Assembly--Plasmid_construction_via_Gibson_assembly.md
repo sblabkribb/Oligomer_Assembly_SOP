@@ -2,7 +2,7 @@
 title: WB030 DNA Assembly - Plasmid construction via Gibson assembly
 experimenter: 윤예린
 created_date: '2025-11-25'
-end_date: ''
+end_date: '2025-11-26'
 last_updated_date: '2025-12-01'
 ---
 
@@ -14,6 +14,8 @@ last_updated_date: '2025-12-01'
 
 - [USW340 Computation - Gibson assembly mix calculation](#usw340-computation-gibson-assembly-mix-calculation)
 - [UHW010 Liquid Handling - Gibson assembly reaction mixture preparation](#uhw010-liquid-handling-gibson-assembly-reaction-mixture-preparation)
+- [UHW130 Sealing - Sealing & Centrifugation of Gibson assembly reaction plate](#uhw130-sealing-sealing--centrifugation-of-gibson-assembly-reaction-plate)
+
 - [UHW180 Incubation - Gibson assembly reaction](#uhw180-incubation-gibson-assembly-reaction)   
 
 
@@ -115,17 +117,49 @@ last_updated_date: '2025-12-01'
    - **Vector DNA**: 계산된 부피  
    - **Total reaction volume**: 10 µL
 
-3. 모든 시료에 대해 분주가 완료되면, plate를 마이크로플레이트 원심분리기에 넣고 가볍게 스핀다운하여 반응액을 well 바닥으로 모은다.
-
-4. 원심분리 후, plate sealer에 넣고 sealing film을 부착하여 밀봉한다. 
-
-
 #### Output
 - Gibson Assembly reaction mixtures (96-well PCR plate, 12 samples)
 
 #### Results & Discussions
 - Gibson Assembly 반응 혼합물을 준비하였다.
 - 이후 단계에서 Gibson Assembly 반응을 진행할 예정이다.
+
+---
+
+### [UHW130 Sealing] Sealing & Centrifugation of Gibson assembly reaction plate
+
+- **Description**: 본 단계에서는 Gibson Assembly 반응을 위해 준비된 96-well PCR plate를 sealing film으로 밀봉하여 반응 중 오염 및 증발을 방지하였다.
+
+#### Meta
+- Experimenter: 윤예린
+- Start_date: '2025-12-26'
+- End_date: '2025-12-26'
+
+#### Input
+- Gibson Assembly reaction mixtures (96-well PCR plate, 12 samples)
+
+#### Reagent
+- (None)
+
+#### Consumables
+- Sealing film
+
+#### Equipment
+- Automated Roll Heat Sealer (formerly a4S) (AZENTA)
+
+#### Method
+1. Gibson Assembly 반응 혼합물이 담긴 96-well PCR plate를 Automated Roll Heat Sealer 장비에 장착한다.
+2. `Seal` 버튼을 눌러 sealing film을 부착하여 plate를 밀봉한다.
+3. 밀봉이 완료되면 plate를 장비에서 꺼낸다.
+4. Sealed plate를 마이크로플레이트 원심분리기에 넣고 가볍게 스핀다운하여 반응액을 well 바닥으로 모은다.
+5. plate를 꺼내어 다음 단계로 진행한다.
+
+#### Output
+- Sealed Gibson Assembly reaction plate (96-well PCR plate, 12 samples)
+
+#### Results & Discussions
+- Gibson Assembly 반응 plate를 sealing film으로 밀봉하였다.
+- 이후 단계에서 밀봉된 plate를 이용해 Gibson Assembly 반응을 진행할 예정이다.
 
 
 ---
@@ -172,5 +206,7 @@ last_updated_date: '2025-12-01'
 #### Results & Discussions
 - Gibson Assembly 반응을 수행하였다.
 - 후속 단계에서 조립된 DNA 샘플을 이용해 형질전환을 진행할 예정이다.
+
+
 
 
