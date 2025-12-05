@@ -53,3 +53,8 @@ last_updated_date: '2025-12-01'
 
 [ ] [003 WB030 DNA Assembly - Plasmid construction via Gibson assembly](./003_WB030_DNA_Assembly--Plasmid_construction_via_Gibson_assembly.md)
 
+
+[ ] [004-1 WB120 Biology-mediated DNA Transfers - Transformation of Gibson assembly products into *E. coli*](./004_WB120_Biology-mediated_DNA_Transfers--Transformation%20of%20Gibson%20assembly%20products%20into%20E.%20coli.md)
+
+[ ] [004-2 WB120 Biology-mediated DNA Transfers - Transformation of Gibson assembly products into *E. coli*](./005_WB120_Biology-mediated_DNA_Transfers--Transformation_of_Gibson_assembly_products_into_E._coli.md)
+
